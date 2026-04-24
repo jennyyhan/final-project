@@ -22,3 +22,6 @@ This project included:
 - Age and major comorbidities were strongly associated with mortality
 - Logistic Regression performed slightly better than Linear SVM
 - Logistic Regression was also interpretable through feature coefficients
+
+
+Due to browser upload size limits, this repository includes a representative sample of the data along with the full analysis notebook.
